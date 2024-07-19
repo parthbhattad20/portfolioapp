@@ -1,0 +1,16 @@
+export const blogs = [
+    {
+      id: 1,
+      title: 'Typography',
+      date: '21 June 2020 08:04 AM',
+      image: 'https://via.placeholder.com/300',
+      excerpt: 'Lid est laborum et dolor... ',
+      content: 'Full content of the Typography blog...Fullcontent of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...Full content of the Traveling Ultralight blog...',
+    },
+
+ 
+   
+
+    // Add more blog objects here
+  ];
+  
