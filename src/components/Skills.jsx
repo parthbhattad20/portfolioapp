@@ -93,7 +93,6 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={docker} alt="HTML icon" />
                   <p className='my-4'>Docker</p>
               </div>
-
           </div>
       </div>
     </div>
