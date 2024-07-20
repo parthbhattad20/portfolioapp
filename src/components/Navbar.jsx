@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from '../assets/FLGO.jpeg';
+import Logo from '../assets/LGOGPARTH.png';
 import { Link } from 'react-router-dom'; // Use react-router-dom
 
 const Navbar = () => {
@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
             <div>
-                <img src={Logo} alt='Logo Image' style={{ width: '100px',height:'70px'}} className='rounded-full' />
+                <img src={Logo} alt='LOGO' style={{ width: '200px',height:'70px'}} className='rounded' />
             </div>
 
             {/* Menu */}
@@ -88,7 +88,7 @@ const Navbar = () => {
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
                         <a
                             className='flex justify-between items-center w-full text-gray-300'
-                            href='https://www.linkedin.com'
+                            href='https://www.linkedin.com/in/parth-bhattad-21a38022a?originalSubdomain=in'
                             target='_blank'
                             rel='noopener noreferrer'
                         >
@@ -98,7 +98,7 @@ const Navbar = () => {
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
                         <a
                             className='flex justify-between items-center w-full text-gray-300'
-                            href='https://github.com'
+                            href='https://github.com/parthbhattad20'
                             target='_blank'
                             rel='noopener noreferrer'
                         >
@@ -108,7 +108,7 @@ const Navbar = () => {
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
                         <a
                             className='flex justify-between items-center w-full text-gray-300'
-                            href='mailto:example@example.com'
+                            href='mailto:bhattadparth20@gmail.com'
                         >
                             Email <HiOutlineMail size={30} />
                         </a>
@@ -116,7 +116,7 @@ const Navbar = () => {
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                         <a
                             className='flex justify-between items-center w-full text-gray-300'
-                            href='/resume.pdf'
+                            href='https://drive.google.com/file/d/1AE70dJxzttRnecVJTBgYbgMWsgGUcEHy/view'
                             target='_blank'
                             rel='noopener noreferrer'
                         >
