@@ -101,3 +101,28 @@ const Skills = () => {
 };
 
 export default Skills;
+
+
+// events {
+//     # Event directives...
+// }
+
+// http {
+//     server {
+//         listen 80;
+//         server_name parthbhattad.com;
+
+//         location / {
+//             root /home/ubuntu/portfolioapp/build; 
+//             try_files $uri $uri/ /index.html;
+
+//             proxy_pass http://localhost:80;
+//             proxy_http_version 1.1;
+//             proxy_set_header Upgrade $http_upgrade;
+//             proxy_set_header Connection 'upgrade';
+//             proxy_set_header Host $host;
+//             proxy_cache_bypass $http_upgrade;
+//         }
+//     }
+// }
+
